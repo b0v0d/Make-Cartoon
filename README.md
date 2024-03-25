@@ -55,13 +55,13 @@ cv2.destroyAllWindows()
 ### 3. 실제 실행 이미지 비교
 변환이 잘 이루어지지 않은 케이스
 <p align="center" width="100%">
-  <img src="" width="49%">
-  <img src="" width="49%">
+  <img src="https://github.com/b0v0d/Make-Cartoon/assets/162780235/4cbea48a-c91d-4c32-b0bf-582f97a2bf2b" width="49%">
+  <img src="https://github.com/b0v0d/Make-Cartoon/assets/162780235/2b638fc0-e83f-45dd-a0dd-46d0705a5807" width="49%">
 </p>
 변환이 잘 이루어진 케이스
 <p align="center" width="100%">
-  <img src="" width="49%">
-  <img src="" width="49%">
+  <img src="https://github.com/b0v0d/Make-Cartoon/assets/162780235/d92b598d-ecd1-4f3a-9d22-5c26f10fcaa3" width="49%">
+  <img src="https://github.com/b0v0d/Make-Cartoon/assets/162780235/03850eca-fb33-4523-b67a-1af0641ede7c" width="49%">
 </p>
 
 ### 4. 코드의 한계 분석
