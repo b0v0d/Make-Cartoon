@@ -12,7 +12,6 @@ import numpy as np
 ```
 numpy와 opencv 기능을 불러온다
 
-
 ```python
 def cartoonize(image):
     # 이미지를 블러처리하여 경계를 부드럽게 만든다
@@ -34,7 +33,6 @@ def cartoonize(image):
 ```
 카툰 스타일로 변환하기 위한 함수
 
-
 ```python
 image_path = 'test.jpg'
 image = cv2.imread(image_path)
@@ -46,7 +44,6 @@ cartoon_image = cartoonize(image)
 ```
 카툰 스타일로 변환된 이미지를 얻는다
 
-
 ```python
 # 결과 이미지 출력
 cv2.imshow('Cartoon Image', cartoon_image)
@@ -55,6 +52,16 @@ cv2.destroyAllWindows()
 ```
 결과 이미지를 출력한다
 
-
-###3. 실제 실행 이미지 비교
+### 3. 실제 실행 이미지 비교
 변환이 잘 이루어지지 않은 케이스
+<p align="center" width="100%">
+  <img src="" width="49%">
+  <img src="" width="49%">
+</p>
+변환이 잘 이루어진 케이스
+<p align="center" width="100%">
+  <img src="" width="49%">
+  <img src="" width="49%">
+</p>
+
+### 4. 코드의 한계 분석
