@@ -1,10 +1,10 @@
 # Make-Cartoon
 Cartoonize real world
 
-###1. 기능요약
+### 1. 기능요약
    주어진 이미지를 카툰(Cartoon) 스타일로 변환한다
 
-###2. 프로그램 설명
+### 2. 프로그램 설명
 
 ```python
 import cv2
